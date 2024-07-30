@@ -16,6 +16,8 @@ const WhatsNew = () => {
     mouseY.set(clientY - bounds.top);
   };
 
+  const h2Text = "What's new about Tiny Trees?";
+
   const staggerContainer = (staggerChildren, delayChildren) => ({
     hidden: {},
     show: {
@@ -76,9 +78,7 @@ const WhatsNew = () => {
         className="flex justify-center flex-col w-[90%] lg:w-[50%]"
       >
         <motion.p className="font-thin">| How Metaversus Works</motion.p>
-        <motion.h2 className="font-bold text-5xl">
-          What's new about Tiny Trees?
-        </motion.h2>
+        <motion.h2 className="font-bold text-5xl">{h2Text}</motion.h2>
         <article className="flex justify-between mt-8">
           <figure>
             <div className="flex items-center justify-center w-[70px] h-[70px] rounded-3xl bg-[#114040]">

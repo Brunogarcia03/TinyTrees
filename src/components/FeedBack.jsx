@@ -6,6 +6,9 @@ import feedBack from "@/assets/images/FeedBack.jpg";
 import Image from "next/image";
 
 const FeedBack = () => {
+  const text =
+    "“Bonsai is an art that teaches patience, care, and appreciation for nature's beauty. Each tree, no matter how small, holds a universe of wonder and tranquility.”";
+
   const staggerContainer = (staggerChildren, delayChildren) => ({
     hidden: {},
     show: {
@@ -77,9 +80,7 @@ const FeedBack = () => {
             </p>
           </div>
           <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45.6px] leading-[39.6px] text-white">
-            “Bonsai is an art that teaches patience, care, and appreciation for
-            nature's beauty. Each tree, no matter how small, holds a universe of
-            wonder and tranquility.”
+            {text}
           </p>
         </motion.div>
 
