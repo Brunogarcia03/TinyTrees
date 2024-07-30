@@ -11,11 +11,10 @@ export const metadata = {
   title: "The art of Tiny Trees",
   description:
     "Discover the serene and captivating world of Bonsai trees. Learn the delicate art of cultivating tiny trees and transform your spaces into tranquil landscapes.",
-  metadataBase: new URL("http://localhost:3000/"),
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "http://localhost:3000/",
+    url: "https://tiny-trees.vercel.app/",
     site_name: "Tiny Trees",
     title: "Tiny Trees - The Art of Bonsai",
     description:
