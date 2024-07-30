@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌳 Tiny Trees - The Art of Bonsai
 
-## Getting Started
+![Tiny Trees Logo](public/favicon.ico)
 
-First, run the development server:
+Bienvenido a **Tiny Trees**, un emocionante viaje a través del mundo de los bonsáis. Aquí exploramos la delicada y maravillosa práctica de cultivar árboles en miniatura, transformando espacios en paisajes serenos.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Características
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Interfaz Atractiva**: Diseñada con amor y atención al detalle.
+- **Animaciones Sorprendentes**: Implementadas utilizando **Framer Motion**, brindando una experiencia de usuario fluida y dinámica.
+- **Contenido Interactivo**: Aprende y explora a través de secciones interactivas que hacen que la experiencia sea más envolvente.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🌱 Tecnologías Utilizadas
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Next.js**: Framework poderoso para React que nos permite crear aplicaciones web rápidas y eficientes.
+- **Framer Motion**: Biblioteca de animación para React, que facilita la creación de animaciones fluidas y complejas.
 
-## Learn More
+## 🎨 Ejemplo de Uso
 
-To learn more about Next.js, take a look at the following resources:
+Algunas de las secciones más interesantes de **Tiny Trees** incluyen:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Consejos Mejorados para el Cuidado del Bonsái**: Consejos prácticos para mantener tus bonsáis sanos y felices.
+- **Recorrido Virtual por Jardines de Bonsái**: Una experiencia inmersiva que te lleva a algunos de los jardines de bonsáis más impresionantes del mundo.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Captura de Pantalla
 
-## Deploy on Vercel
+![Tiny Trees Screenshot](public/assets/images/ScreenShot.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📦 Instalación
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Para comenzar a usar **Tiny Trees**, sigue estos pasos:
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/tiny-trees.git
+   ```
