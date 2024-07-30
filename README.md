@@ -1,7 +1,7 @@
-# 🌳 Tiny Trees - The Art of Bonsai
+# 🌳 Tiny Trees - The Art of Tiny Trees
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20on%20Vercel-brightgreen)](https://tiny-trees.vercel.app/)
 ![Tiny Trees Logo](public/favicon.ico)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20on%20Vercel-brightgreen)](https://tiny-trees.vercel.app/)
 
 Welcome to **Tiny Trees**, an exciting journey through the world of bonsai. Here we explore the delicate and wonderful practice of cultivating miniature trees, transforming spaces into serene landscapes.
 
