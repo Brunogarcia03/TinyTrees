@@ -24,4 +24,4 @@ Some of the most interesting sections of **Tiny Trees** include:
 
 ### Screenshot
 
-![Tiny Trees Screenshot](public/assets/images/ScreenShot.png)
+![Tiny Trees Screenshot](public/ScreenShot.png)
