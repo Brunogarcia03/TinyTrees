@@ -1,28 +1,45 @@
-# 🌳 Tiny Trees - The Art of Tiny Trees
+# 🌳 Tiny Trees — El arte de los pequeños árboles
+[![Live Demo](https://img.shields.io/badge/Demo%20en%20vivo-Ver%20en%20Vercel-brightgreen)](https://tiny-trees.vercel.app/)
 
-![Tiny Trees Logo](public/favicon.ico)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20on%20Vercel-brightgreen)](https://tiny-trees.vercel.app/)
+**Tiny Trees** es un proyecto experimental de aprendizaje centrado en la exploración visual y animada de la estética del bonsái.  
+Más que una aplicación funcional, es un ejercicio de observación: ritmo, transición y detalle como parte del lenguaje de la interfaz.
 
-Welcome to **Tiny Trees**, an exciting journey through the world of bonsai. Here we explore the delicate and wonderful practice of cultivating miniature trees, transforming spaces into serene landscapes.
+El objetivo fue trabajar la animación no como ornamento, sino como una herramienta narrativa que acompañe la experiencia del usuario.
 
-## 🚀 Features
+---
 
-- **Attractive Interface**: Designed with love and attention to detail.
-- **Stunning Animations**: Implemented using **Framer Motion**, providing a smooth and dynamic user experience.
-- **Interactive Content**: Learn and explore through interactive sections that make the experience more engaging.
+## ✨ Características
 
-## 🌱 Technologies Used
+- **Interfaz cuidada y minimalista**  
+  Diseño orientado a la contemplación y a la lectura pausada.
 
-- **Next.js**: A powerful framework for React that allows us to create fast and efficient web applications.
-- **Framer Motion**: An animation library for React, making it easy to create fluid and complex animations.
+- **Animaciones fluidas y expresivas**  
+  Implementadas con **Framer Motion**, priorizando transiciones suaves y naturales.
 
-## 🎨 Example Usage
+- **Contenido interactivo**  
+  Secciones pensadas para invitar a la exploración sin sobrecargar la experiencia.
 
-Some of the most interesting sections of **Tiny Trees** include:
+---
 
-- **Enhanced Bonsai Care Tips**: Practical advice to keep your bonsai healthy and happy.
-- **Virtual Tour of Bonsai Gardens**: An immersive experience that takes you to some of the most stunning bonsai gardens around the world.
+## 🌱 Tecnologías utilizadas
 
-### Screenshot
+- **React**  
+  Para la construcción de la interfaz y la composición de componentes.
 
-![Tiny Trees Screenshot](public/ScreenShot.png)
+- **Tailwind CSS**  
+  Para un sistema de estilos flexible, consistente y rápido de iterar.
+
+- **Framer Motion**  
+  Como base para animaciones declarativas y control fino del movimiento.
+
+---
+
+## 🎯 Alcance del proyecto
+
+Este proyecto fue concebido como una práctica de:
+
+- composición visual,
+- animación en interfaces web,
+- integración entre diseño y código.
+
+No pretende ser un producto final, sino una etapa dentro de un proceso de aprendizaje continuo.
